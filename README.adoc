@@ -11,6 +11,6 @@ This is a paragraph and a I am typing it
 a:b:c
 :===
 
-\t===
+  ===
 a	b	c
-\t===
+  ===
