@@ -1,1 +1,8 @@
-# testingAsciidoc
+= This is a Title for a test document
+Chris MacKay
+v1.0, 2015-06-09
+:toc:
+
+== Section 1
+
+This is a paragraph and a I am typing it
